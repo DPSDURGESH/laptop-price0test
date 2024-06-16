@@ -70,14 +70,6 @@
 ![webapp_prediction_3](https://user-images.githubusercontent.com/108085377/206888705-9647dfed-6477-4764-ae28-b40a7f59c0e1.PNG)
 ![webapp_prediction_4](https://user-images.githubusercontent.com/108085377/206888708-8692aba5-4337-4fc3-b553-08a976725955.PNG)
 
-# Author
-
-*Nehal Gund*
-
-- [Profile](https://github.com/NehalGund "Nehal Gund")
-- [Linkedin](https://www.linkedin.com/in/nehal-gund/)
-- [Kaggle](https://www.kaggle.com/code/nehalgund/laptop-price-prediction-notebook)
-- [Gmail:](mailto:gundnehal@gmail.com) gundnehal@gmail.com
 
 
 # 🤝 Support
